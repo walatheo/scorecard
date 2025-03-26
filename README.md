@@ -1,5 +1,5 @@
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Walatheo/codestuff/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Walatheo/codestuff)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/walatheo/Underscorers_group7repo/badge)](https://securityscorecards.dev/viewer/?uri=github.com/walatheo/Underscorers_group7repo)
 
 ![OpenSSF Best Practices](https://img.shields.io/badge/Best_Practices-Pass-4CAF50)
 
