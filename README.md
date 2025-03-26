@@ -7,5 +7,4 @@
 OpenSSf
 
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10300/badge)](
-https://www.bestpractices.dev/en/projects/10334)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10334/badge)](https://www.bestpractices.dev/projects/10334)
